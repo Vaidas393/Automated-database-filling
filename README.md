@@ -19,7 +19,7 @@ API testavimas.
 1)	Nurodyta svetainė yra sandboksinta aplikacija kas reiškia jog jokie pakeitimai neišsaugomi. Manau netikslinga daryti automatinius testus svetainei https://reqres.in/ nes galima tikrinti tik response kodus, o tikro veikimo patikrinti neįmanoma kadangi duomenys niekur nesaugomi. 
 2)	Todėl nusprendžiau susikurti savo Rest API naudojant Node.js ir MongoDB (darbui norėjau panaudoti bent porą duomenų bazių ir porą programavimo kalbų), ir parašyti automatinius testus šiai aplikacijai. Vartotojai sukurti pagal regres svetainės pavizdį.
 3)	Prie nurodyto patikrinti vartotojo sukūrimo ir visų vartotojų sarašo gavimo nusprendžiau pridėti papildomus testus vartotojo atnaujinimo bei vartotojo ištrinimo kad galėčiau pilnai ištestuoti savo sukurtos API crudo funkcionalumą.
-4)	Poros savaičių bėgyje planuoju padaryti frontend vartotoja interface jog būtų galima testuoti betkam per naršyklę nenaudojant API testavimo įrankių.
+4)	Poros savaičių bėgyje planuoju padaryti frontend vartotojo interface jog būtų galima testuoti betkam per naršyklę nenaudojant API testavimo įrankių.
 5)	Visas darbo kodas bei failai https://github.com/Vaidas393/Rest-API-and-API-automation-tests
 6)	Išsamus darbo aprašymas bei dokumentacija https://github.com/Vaidas393/Rest-API-and-API-automation-tests/blob/main/README.md
 
